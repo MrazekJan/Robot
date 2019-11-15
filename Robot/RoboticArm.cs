@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Robot
 {
-    class RoboticArm
+    class RoboticArm : RoboticPart
     {
     }
 }
